@@ -103,3 +103,16 @@ print(hi()) #HelloWorld황정용
 def hello2():
     return "황정용2"
 print(hello2()) #HelloWorld황정용2
+
+'''
+재귀함수(Recursive Call)
+계속해서 함수 자기자신을 호출하여 반복문과 같은 효과를 낼 수 있다.
+계속 반복되므로 탈출 조건을 명시하여야 한다.
+'''
+def countDown(n):
+    if n == 0 :
+        print("완료")
+    else :
+        print(n, end = " ")
+        countDown(n-1) #자기자신을 호출
+countDown(5) #5 4 3 2 1 완료
