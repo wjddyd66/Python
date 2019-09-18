@@ -11,6 +11,7 @@
 10. Thread (Thread)
 11. Pool, Process (MultiProcess)
 12. Web Scrapping, Crawling (Scrapping, Crawling)
+13. Pytube, Selenium (Crawling.py)
 
 
 **각코드에 대한 자세한 내용: <https://wjddyd66.github.io/category/Python>**  
