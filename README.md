@@ -14,5 +14,5 @@
 13. Pytube, Selenium (Crawling.py)
 
 
-**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/category/Python>**  
+**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/categories/#python>**  
 연락처: wjddyd66@naver.com  
